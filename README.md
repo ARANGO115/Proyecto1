@@ -1,2 +1,2 @@
 # Proyecto1
-Repositorio para pruevas hago algo
+Repositorio para pruevas hago algo;
